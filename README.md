@@ -13,7 +13,7 @@ End-to-End Deliverables: Includes scripts, a database file, a report.
 
 **⚙️ Installation and Setup**
 1. Clone the Repository
-   git clone https://github.com/yourusername/amazon-scraper.git
+   git clone https://github.com/sanket-narale/amazon-scraper.git
 cd amazon-scraper
 2. Set Up the Environment
    pip install -r requirements.txt
