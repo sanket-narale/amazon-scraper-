@@ -12,6 +12,7 @@ Interactive Visualizations: Generates insights using Matplotlib and Seaborn (e.g
 End-to-End Deliverables: Includes scripts, a database file, a report.
 
 **⚙️ Installation and Setup**
+
 1. Clone the Repository
    git clone https://github.com/sanket-narale/amazon-scraper-
 .git
@@ -23,6 +24,7 @@ cd amazon-scraper
 Place it in your PATH or the project folder.
 
 **🏃‍♂️ Usage**
+
 1. Scrape Data
 Run the scraper.py script to scrape product data from Amazon:
 cd scraping
@@ -45,6 +47,7 @@ Visualizations: Screenshots and charts demonstrating trends.
 Report: Comprehensive report explaining the pipeline and insights.
 
 **🛠️ Technologies Used**
+
 Programming Language: Python
 Libraries: Selenium, Pandas, Matplotlib, Seaborn
 Database: SQLite
